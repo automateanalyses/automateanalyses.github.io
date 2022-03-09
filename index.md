@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+## Automate Analyses {#homeid}
 
-You can use the [editor on GitHub](https://github.com/automateanalyses/automateanalyses.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+This website has no other purpose than to showcase various machine learning projects, and highlight interesting articles.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Latest in Machine Learning
 
-### Markdown
+Curation of articles containing the latest technology and challenges in the world of artifical intelligence, machine learning, and deep learning
+[Click Here...](#MLArticles)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+###  Making Machine Learning Work
 
-```markdown
-Syntax highlighted code block
+A set of fun projects utilizing various machine learning and deep learning techniques
+[Click Here...](#MLProjects)
 
-# Header 1
-## Header 2
-### Header 3
+### Contact Me
 
-- Bulleted
-- List
+To learn more about me or to contact me
+[Click Here...](https://www....)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Latest in Machine Learning {#MLArticles}
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+***White House backs bill requiring mandatory cyber reporting to CISA amid Ukraine crisis*** (https://www.cbsnews.com/news/cyber-reporting-bill-cisa-white-house-support/)
+*The White House has come out in full support of a bill requiring hospitals, power plants, water utilities, airports and other critical infrastructure to report cyber attacks to the Department of Homeland Security within 72 hours.*
 
-### Jekyll Themes
+***There is a crisis of face recognition and policing in the US***(https://www.technologyreview.com/2020/08/14/1006904/there-is-a-crisis-of-face-recognition-and-policing-in-the-us/)
+*The deeply flawed technology is in wide use, largely out of the public eye*
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/automateanalyses/automateanalyses.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+***EEOC Launches Initiative on Artificial Intelligence and Algorithmic Fairness***(https://www.eeoc.gov/newsroom/eeoc-launches-initiative-artificial-intelligence-and-algorithmic-fairness)
+*Agency will focus on ways to help ensure that tech tools used in employment decisions comply with federal anti-discrimination laws*
 
-### Support or Contact
+***How I learned to stop worrying and love the curse of dimensionality***(https://arxiv.org/abs/2201.05214)
+*An appraisal of cluster validation in high-dimensional spaces*
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+***Demystifying machine-learning systems*** (https://news.mit.edu/2022/explainable-machine-learning-0127)
+*A new method automatically describes, in natural language, what the individual components of a neural network do*
+
+
+[Return to the top](#homeid)
+
+
+## Making Machine Learning Work {#MLProjects}
+
+
+[Return to the top](#homeid)
