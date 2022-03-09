@@ -24,23 +24,19 @@ ___
 ## Latest in Machine Learning {#MLArticles}
 
 **[White House backs bill requiring mandatory cyber reporting to CISA amid Ukraine crisis](https://www.cbsnews.com/news/cyber-reporting-bill-cisa-white-house-support/)**   
-*<font size = "4"> The White House has come out in full support of a bill requiring hospitals, power plants, water utilities, airports and other critical infrastructure to report cyber attacks to the Department of Homeland Security within 72 hours.</font>*
+*<font size = "5"> The White House has come out in full support of a bill requiring hospitals, power plants, water utilities, airports and other critical infrastructure to report cyber attacks to the Department of Homeland Security within 72 hours</font>*
 
-**[There is a crisis of face recognition and policing in the US](https://www.technologyreview.com/2020/08/14/1006904/there-is-a-crisis-of-face-recognition-and-policing-in-the-us/)**
+**[There is a crisis of face recognition and policing in the US](https://www.technologyreview.com/2020/08/14/1006904/there-is-a-crisis-of-face-recognition-and-policing-in-the-us/)**  
+*<font size = "5">The deeply flawed technology is in wide use, largely out of the public eye</font>*
 
-*The deeply flawed technology is in wide use, largely out of the public eye*
+**[EEOC Launches Initiative on Artificial Intelligence and Algorithmic Fairness](https://www.eeoc.gov/newsroom/eeoc-launches-initiative-artificial-intelligence-and-algorithmic-fairness)**  
+*<font size = "5">Agency will focus on ways to help ensure that tech tools used in employment decisions comply with federal anti-discrimination laws</font>*
 
-**[EEOC Launches Initiative on Artificial Intelligence and Algorithmic Fairness](https://www.eeoc.gov/newsroom/eeoc-launches-initiative-artificial-intelligence-and-algorithmic-fairness)**
+**[How I learned to stop worrying and love the curse of dimensionality](https://arxiv.org/abs/2201.05214)**  
+*<font size = "5">An appraisal of cluster validation in high-dimensional spaces</font>*
 
-*Agency will focus on ways to help ensure that tech tools used in employment decisions comply with federal anti-discrimination laws*
-
-**[How I learned to stop worrying and love the curse of dimensionality](https://arxiv.org/abs/2201.05214)**
-
-*An appraisal of cluster validation in high-dimensional spaces*
-
-**[Demystifying machine-learning systems](https://news.mit.edu/2022/explainable-machine-learning-0127)**
-
-*A new method automatically describes, in natural language, what the individual components of a neural network do*
+**[Demystifying machine-learning systems](https://news.mit.edu/2022/explainable-machine-learning-0127)**  
+*<font size = "5">A new method automatically describes, in natural language, what the individual components of a neural network do</font>*
 
 
 [Return to the top](#homeid)
