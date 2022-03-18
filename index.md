@@ -7,15 +7,15 @@ This website has no other purpose than to showcase various machine learning proj
 Curation of articles containing the latest technology and challenges in the world of artifical intelligence, machine learning, and deep learning  
 *[Click Here...](#MLArticles)*
 
-###  Making Machine Learning Work
+###  Machine Learning Projects
 
-A set of fun projects utilizing various machine learning and deep learning techniques  
+Educational material and fun projects utilizing various machine learning and deep learning techniques with a focus on NLP
 *[Click Here...](#MLProjects)*
 
 ### Contact Me
 
 To learn more about me or to contact me  
-*[Click Here...](https://www....)*
+*[Click Here...](https://www.linkedin.com/in/joybrathwaite)*
 
 
 ___
@@ -54,7 +54,7 @@ ___
 ___
 
 
-## Making Machine Learning Work {#MLProjects}
+## Machine Learning Projects {#MLProjects}
 
 
 [Return to the top](#homeid)
