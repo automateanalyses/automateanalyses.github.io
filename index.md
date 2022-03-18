@@ -23,6 +23,15 @@ ___
 
 ## Latest in Machine Learning {#MLArticles}
 
+**[It's Like GPT-3 For Code-- Fun, Fast and Full of Flaws](https://www.wired.com/story/openai-copilot-autocomplete-for-code/?mc_cid=d86a79cc17&mc_eid=47f6641388)**
+*<font size = "3">OpenAI's new tool can complete lines of programming, and conjure software from a simple prompt.</font>*
+
+**[Swarm Intelligence: What Is It and How Are Agencies Using It?](https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2022/02/swarm-intelligence-what-it-and-how-are-agencies-using-it-perfcon?amp)**
+*<font size = "3">A kind of “hive mind” artificial intelligence has many potential applications for federal government agencies that use satellites and drones.</font>*
+
+**[Towards a Standard for Identifying and Managing Bias in Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf)**   
+*<font size = "3">While many organizations seek to utilize this information in a responsible manner, biases remain endemic across technology processes and can lead to harmful impacts regardless of intent.</font>*
+
 **[White House backs bill requiring mandatory cyber reporting to CISA amid Ukraine crisis](https://www.cbsnews.com/news/cyber-reporting-bill-cisa-white-house-support/)**   
 *<font size = "3"> The White House has come out in full support of a bill requiring hospitals, power plants, water utilities, airports and other critical infrastructure to report cyber attacks to the Department of Homeland Security within 72 hours</font>*
 
