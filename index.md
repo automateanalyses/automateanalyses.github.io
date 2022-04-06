@@ -22,8 +22,8 @@ ___
 
 
 ## Latest in Machine Learning {#MLArticles}
-**[To Keep Students in STEM fields, Let’s Weed Out the Weed-Out Math Classes](Reimagining calculus has changed several schools’ success rates. Here’s how)**
-*<font size = "3">Early tests have been promising, but issues involving bias, privacy and mistrust of “black box” algorithms are possible pitfalls.</font>*
+**[To Keep Students in STEM fields, Let’s Weed Out the Weed-Out Math Classes](https://www.scientificamerican.com/article/to-keep-students-in-stem-fields-lets-weed-out-the-weed-out-math-classes/)**
+*<font size = "3">Reimagining calculus has changed several schools’ success rates. Here’s how.</font>*
 
 **[Can A.I.-Driven Voice Analysis Help Identify Mental Disorders?](https://www.nytimes.com/2022/04/05/technology/ai-voice-analysis-mental-health.html)**
 *<font size = "3">Early tests have been promising, but issues involving bias, privacy and mistrust of “black box” algorithms are possible pitfalls.</font>*
