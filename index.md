@@ -22,6 +22,11 @@ ___
 
 
 ## Latest in Machine Learning {#MLArticles}
+**[To Keep Students in STEM fields, Let’s Weed Out the Weed-Out Math Classes](Reimagining calculus has changed several schools’ success rates. Here’s how)**
+*<font size = "3">Early tests have been promising, but issues involving bias, privacy and mistrust of “black box” algorithms are possible pitfalls.</font>*
+
+**[Can A.I.-Driven Voice Analysis Help Identify Mental Disorders?](https://www.nytimes.com/2022/04/05/technology/ai-voice-analysis-mental-health.html)**
+*<font size = "3">Early tests have been promising, but issues involving bias, privacy and mistrust of “black box” algorithms are possible pitfalls.</font>*
 
 **[It's Like GPT-3 For Code-- Fun, Fast and Full of Flaws](https://www.wired.com/story/openai-copilot-autocomplete-for-code/?mc_cid=d86a79cc17&mc_eid=47f6641388)**
 *<font size = "3">OpenAI's new tool can complete lines of programming, and conjure software from a simple prompt.</font>*
