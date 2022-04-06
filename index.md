@@ -9,7 +9,7 @@ Curation of articles containing the latest technology and challenges in the worl
 
 ###  Machine Learning Projects
 
-Educational material and fun projects utilizing various machine learning and deep learning techniques with a focus on NLP
+Educational material utilizing various machine learning and deep learning techniques with a focus on NLP and computer vision
 *[Click Here...](#MLProjects)*
 
 ### Contact Me
