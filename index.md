@@ -22,16 +22,25 @@ ___
 
 
 ## Latest in Machine Learning {#MLArticles}
-**[To Keep Students in STEM fields, Let’s Weed Out the Weed-Out Math Classes](https://www.scientificamerican.com/article/to-keep-students-in-stem-fields-lets-weed-out-the-weed-out-math-classes/)**
+**[Cruise robotaxis blocked traffic for hours on this San Francisco street](https://techcrunch.com/2022/06/30/cruise-robotaxis-blocked-traffic-for-hours-on-this-san-francisco-street/)**  
+*<font size = "3">More than a half dozen Cruise robotaxis stopped operating and sat in a street in San Francisco late Tuesday night, blocking traffic for a couple of hours until employees arrived and manually moved the autonomous vehicles</font>*
+
+**[The James Webb Space Telescope just delivered some incredible new images of the universe](https://www.technologyreview.com/2022/07/12/1055846/james-webb-space-telescope-first-observations/)**  
+*<font size = "3">A release of early observations by the $10 billion telescope reveals galaxies, planets, and stars in unprecedented detail</font>*
+
+**[Inside a radical new project to democratize AI](https://www.technologyreview.com/2022/07/12/1055817/inside-a-radical-new-project-to-democratize-ai/)**  
+*<font size = "3">A group of over 1,000 AI researchers has created a multilingual large language model bigger than GPT-3—and they’re giving it out for free</font>*
+
+**[To Keep Students in STEM fields, Let’s Weed Out the Weed-Out Math Classes](https://www.scientificamerican.com/article/to-keep-students-in-stem-fields-lets-weed-out-the-weed-out-math-classes/)**  
 *<font size = "3">Reimagining calculus has changed several schools’ success rates. Here’s how.</font>*
 
-**[Can A.I.-Driven Voice Analysis Help Identify Mental Disorders?](https://www.nytimes.com/2022/04/05/technology/ai-voice-analysis-mental-health.html)**
+**[Can A.I.-Driven Voice Analysis Help Identify Mental Disorders?](https://www.nytimes.com/2022/04/05/technology/ai-voice-analysis-mental-health.html)**  
 *<font size = "3">Early tests have been promising, but issues involving bias, privacy and mistrust of “black box” algorithms are possible pitfalls.</font>*
 
-**[It's Like GPT-3 For Code-- Fun, Fast and Full of Flaws](https://www.wired.com/story/openai-copilot-autocomplete-for-code/?mc_cid=d86a79cc17&mc_eid=47f6641388)**
+**[It's Like GPT-3 For Code-- Fun, Fast and Full of Flaws](https://www.wired.com/story/openai-copilot-autocomplete-for-code/?mc_cid=d86a79cc17&mc_eid=47f6641388)**  
 *<font size = "3">OpenAI's new tool can complete lines of programming, and conjure software from a simple prompt.</font>*
 
-**[Swarm Intelligence: What Is It and How Are Agencies Using It?](https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2022/02/swarm-intelligence-what-it-and-how-are-agencies-using-it-perfcon?amp)**
+**[Swarm Intelligence: What Is It and How Are Agencies Using It?](https://fedtechmagazine-com.cdn.ampproject.org/c/s/fedtechmagazine.com/article/2022/02/swarm-intelligence-what-it-and-how-are-agencies-using-it-perfcon?amp)**  
 *<font size = "3">A kind of “hive mind” artificial intelligence has many potential applications for federal government agencies that use satellites and drones.</font>*
 
 **[Towards a Standard for Identifying and Managing Bias in Artificial Intelligence](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1270.pdf)**   
