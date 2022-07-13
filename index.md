@@ -69,7 +69,7 @@ ___
 
 
 ## Machine Learning Projects {#MLProjects}
-**[Solving Partial Differential Equations (PDEs) Using Deep Learning(DL](https://)**  
+**[Solving Partial Differential Equations (PDEs) Using Deep Learning(DL)](https://)**  
 
 
 
