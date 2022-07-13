@@ -9,7 +9,7 @@ Curation of articles containing the latest technology and challenges in the worl
 
 ###  Machine Learning Projects
 
-Educational material utilizing various machine learning and deep learning techniques with a focus on NLP and computer vision
+Educational material utilizing various machine learning and deep learning techniques
 *[Click Here...](#MLProjects)*
 
 ### Contact Me
@@ -69,6 +69,10 @@ ___
 
 
 ## Machine Learning Projects {#MLProjects}
+**[Solving Partial Differential Equations (PDEs) Using Deep Learning(DL](https://)**  
+
+
+
 
 
 [Return to the top](#homeid)
