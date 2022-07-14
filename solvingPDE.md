@@ -1,6 +1,4 @@
-layout: page
-title: "PAGE TITLE"
-permalink: /solvingPDE/
+
 
 ## Automate Analyses {#homeid}
 
