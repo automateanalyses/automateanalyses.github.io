@@ -22,6 +22,9 @@ ___
 
 
 ## Latest in Machine Learning {#MLArticles}
+**[The science behind NFL Next Gen Stats’ new passing metric](https://www.amazon.science/blog/the-science-behind-nfl-next-gen-stats-new-passing-metric)**  
+*<font size = "3">Spliced binned-Pareto distributions are flexible enough to handle symmetric, asymmetric, and multimodal distributions, offering a more consistent metric</font>*
+
 **[Cruise robotaxis blocked traffic for hours on this San Francisco street](https://techcrunch.com/2022/06/30/cruise-robotaxis-blocked-traffic-for-hours-on-this-san-francisco-street/)**  
 *<font size = "3">More than a half dozen Cruise robotaxis stopped operating and sat in a street in San Francisco late Tuesday night, blocking traffic for a couple of hours until employees arrived and manually moved the autonomous vehicles</font>*
 
