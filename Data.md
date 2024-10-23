@@ -27,6 +27,7 @@ Example of batch data include:
 
 - Market Data: An investment firm may download historical stock prices at the end of the trading day to analyze trends and performance over the past week.
 
+### Streaming Data
 Streaming data is generated continuously and processed in real-time or near-real-time. This data is analyzed continuously in real time, with low latency—ideal for immediate decision-making. This type of data possesses the following charcteristics:
 - Storage: Typically managed in real-time processing systems and may be stored temporarily or in a streaming platform.
 - Latency: Low latency, allowing for immediate analysis and response.
