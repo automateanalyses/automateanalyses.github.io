@@ -6,12 +6,12 @@ A good system design starts with a good understanding of requirements. Requireme
 Requirements engineering is the process of defining, documenting, and managing the requirements of a system or product. It involves various activities, including gathering stakeholder needs, analyzing those needs, specifying requirements, validating them, and managing changes over time.
 
 ### Key Activities in Requirements Engineering
- - Requirements Elicitation: Gathering information from stakeholders through interviews, surveys, workshops, and observation.
+<b>Requirements Elicitation<\b>: Gathering information from stakeholders through interviews, surveys, workshops, and observation.
 
-Requirements Analysis: Evaluating and prioritizing requirements to ensure they are feasible, necessary, and aligned with business goals\
-Requirements Specification: Documenting requirements in a clear and understandable format, often using models, diagrams, and written descriptions\
-<b>Requirements Validation: Ensuring that the documented requirements accurately reflect stakeholder needs and are achievable.</b>
-<b>Requirements Management: Maintaining and tracking requirements throughout the project lifecycle, especially as changes occur.</b>
+<b>Requirements Analysis<\b>: Evaluating and prioritizing requirements to ensure they are feasible, necessary, and aligned with business goals\
+<b>Requirements Specification<\b>: Documenting requirements in a clear and understandable format, often using models, diagrams, and written descriptions\
+<b>Requirements Validation<\b>: Ensuring that the documented requirements accurately reflect stakeholder needs and are achievable\
+<b>Requirements Management<\b>: Maintaining and tracking requirements throughout the project lifecycle, especially as changes occur\
 
 
 <p>
